@@ -44,7 +44,7 @@
 
 ![sprint](./task/sprint.png)
 ![sprint_start](./task/sprint_start.png)
-![sprint_closed](./task/sprint_closed.png)
+![sprint_closed](./task/scrum_closed.png)
 
 6. Если всё отработалось в рамках ожидания — выгрузите схемы workflow для импорта в XML. Файлы с workflow и скриншоты workflow приложите к решению задания.
 
