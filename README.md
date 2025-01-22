@@ -48,4 +48,4 @@
 
 6. Если всё отработалось в рамках ожидания — выгрузите схемы workflow для импорта в XML. Файлы с workflow и скриншоты workflow приложите к решению задания.
 
->Ответ: [bug.xml](./task/bug_workflow.xml), [other](./task/task_workflow.xml)
+>Ответ: [bug.xml](./task/bug_workflow.xml), [other.xml](./task/task_workflow.xml)
